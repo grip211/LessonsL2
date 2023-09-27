@@ -25,7 +25,7 @@ import (
 */
 
 func main() {
-	fmt.Println("Hello world")
+	fmt.Println("Hello pip :)")
 }
 
 func unpack(line string) (string, error) {
